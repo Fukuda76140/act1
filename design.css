@@ -9,3 +9,7 @@ h1
 	font-size: 30px;
 	color:red;
 }
+p{
+	color:green;
+	margin-bottom: 20px;
+}
